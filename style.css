@@ -1,4 +1,7 @@
-
+body {
+    margin: 0;
+    padding: 0;
+}
 header {
     background: #1f2937;
     display: flex;
@@ -27,7 +30,6 @@ a{
 .container {
     display: flex;
     background-color: #1f2937;
-    border-radius: 5px;
     padding: 150px;
 }
 
